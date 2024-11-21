@@ -1,4 +1,4 @@
-
+![Screenshot 2024-11-20 002204](https://github.com/user-attachments/assets/92f6c1de-f1ee-48b4-ac52-57c4bcc94309)
 **Contributions by Each Team Member**
 
 **1.For each member in your team, provide 1 paragraph detailing what parts of the lab that member implemented / researched.**
@@ -133,3 +133,4 @@ The VM boot process, including initialization and other tasks, entailed approx. 
 
 **EPT\_MISCONFIG**: This exit type occurred 2,130 times least.
 
+![Screenshot 2024-11-20 002204](https://github.com/user-attachments/assets/e6e714be-1424-48cf-af62-289f2bec8324)
